@@ -1,3 +1,7 @@
-float resultado = 4 / 2 * 3 / 6 + 6 / 2 / 1 / pow(5,2) / 4 * 2;
+int a=2;
+int b=4;
+int c=1;
+
+float resultado = pow (b,2) - 4 * a * c;
 
 println(resultado);
